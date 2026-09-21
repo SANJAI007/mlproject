@@ -150,6 +150,7 @@ activemq-data/
 
 # Environments
 artifacts/
+catboost_info/
 .env
 .envrc
 .venv
